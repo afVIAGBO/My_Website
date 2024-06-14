@@ -1,0 +1,45 @@
+
+body{
+    background-color: rgb(255, 252, 250);
+}
+
+.rounded-image {
+    border-radius: 50%;
+    border-width: 2px; /* épaisseur de la bordure */
+    border-style: solid ; /* style de la bordure */
+    border-color: #ccc; /* couleur de la bordure */
+    overflow: hidden;
+}
+
+nav{
+
+    background-color: rgb(200, 255, 200);
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+}
+a{
+   color: blue;
+}
+
+h1, h2, h3{
+    text-align:center;
+
+}
+p {
+     text-align:center;
+}
+
+div#lang{
+     text-align:center;
+
+}
+
+
+.cv-image {
+    max-width: 90%;
+    height: auto;
+    border: 1px solid #ccc; /* Optional: add border for better visual separation */
+}
+
+
+
+
